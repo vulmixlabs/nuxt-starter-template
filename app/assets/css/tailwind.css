@@ -1,0 +1,9 @@
+@import 'tailwindcss';
+
+/* Sample colors, you can remove them. */
+@theme {
+  --color-brand-50: #d2fff2;
+  --color-brand-400: #00f8ae;
+  --color-brand-500: #01df9c;
+  --color-brand-600: #00d192;
+}
